@@ -49,7 +49,7 @@
 							placeholder="Country Name">
 					</div>
 
-					<button type="submit" class="btn btn-outline-success col-2">Update</button>
+					<button type="submit" class="btn btn-outline-success col-2">Save</button>
 					<a href="/StudentManagement/student/list" class="btn btn-outline-secondary col-2">Go Back</a>
 				</form>
 				<hr>
